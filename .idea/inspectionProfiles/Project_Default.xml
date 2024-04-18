@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="dcgan.tensorflow_docs" />
+          <option value="tensorflow.keras" />
+          <option value="tensorflow.keras.layers.Dense" />
+          <option value="tensorflow.keras.layers.Input" />
+          <option value="Python_Bot.VGG16" />
+          <option value="tensorflow.keras.layers.Flatten" />
+          <option value="tensorflow.keras.layers.Dropout" />
+          <option value="tensorflow.keras.layers.AveragePooling2D" />
+          <option value="tensorflow.keras.preprocessing" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
